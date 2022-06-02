@@ -60,13 +60,6 @@ func (s *Set) union(x, y int) {
 	}
 }
 
-func abs(a int) int {
-	if a < 0 {
-		return -a
-	}
-	return a
-}
-
 /**
  * DFS+BS
 **/
@@ -77,7 +70,7 @@ var dir = [4][2]int{
 	{-1, 0},
 }
 
-func minimumEffortPath(heights [][]int) int {
+func minimumEffortPath1(heights [][]int) int {
 	n, m := len(heights), len(heights[0])
 	visited := make([][]bool, n)
 	for i := range visited {
