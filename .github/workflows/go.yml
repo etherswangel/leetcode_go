@@ -18,9 +18,6 @@ jobs:
       uses: actions/setup-go@v3
       with:
         go-version: 1.18
-        
-    - name: l_17
-      run: cd ./l_17
 
     - name: Test
-      run: go test -v ./...
+      run: go test -v ./l_17/...
