@@ -19,8 +19,5 @@ jobs:
       with:
         go-version: 1.18
         
-    - name: l_17
-      run: cd ./l_17
-
     - name: Test
       run: go test -v ./...

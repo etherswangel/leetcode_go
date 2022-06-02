@@ -1,0 +1,10 @@
+mode: atomic
+leetcode/l_647/l_647.go:5.36,7.30 2 1
+leetcode/l_647/l_647.go:26.2,26.12 1 1
+leetcode/l_647/l_647.go:7.30,9.38 2 4
+leetcode/l_647/l_647.go:12.3,16.21 4 4
+leetcode/l_647/l_647.go:23.3,24.19 2 4
+leetcode/l_647/l_647.go:9.38,11.4 1 6
+leetcode/l_647/l_647.go:16.21,17.52 1 6
+leetcode/l_647/l_647.go:17.52,19.5 1 2
+leetcode/l_647/l_647.go:19.10,20.10 1 4

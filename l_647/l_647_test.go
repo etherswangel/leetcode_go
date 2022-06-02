@@ -13,7 +13,7 @@ func Test_countSubstrings(t *testing.T) {
 	}{
 		{"2",
 			args{"abbcbb"},
-			25},
+			10},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {

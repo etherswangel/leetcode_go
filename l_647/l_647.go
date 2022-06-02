@@ -16,7 +16,6 @@ func countSubstrings(s string) int {
 		for l := 1; ; l++ {
 			if i-l >= 0 && k+l < len(s) && s[i-l] == s[k+l] {
 				res++
-				fmt.Println("b", res, i, k, l)
 			} else {
 				break
 			}
