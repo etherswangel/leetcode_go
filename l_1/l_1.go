@@ -2,11 +2,11 @@ package leetcode
 
 func twoSum(nums []int, target int) []int {
 	m := make(map[int]int)
-	for idx, num := range nums {
-		if i, ok := m[target-num]; ok {
-			return []int{i, idx}
+	for i, v := range nums {
+		if j, ok := m[target-v]; ok {
+			return []int{j, i}
 		}
-		m[num] = idx
+		m[v] = i
 	}
 	return nil
 }
