@@ -1,0 +1,451 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/Users/walker/Documents/Walkerspace/go/leetcode/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+Add	l_341/l_341.go	/^func (this *NestedInteger) Add(elem NestedInteger) {}$/;"	f	struct:leetcode.NestedInteger
+Add	l_705/l_705.go	/^func (this *MyHashSet) Add(key int) {$/;"	f	struct:leetcode.MyHashSet
+BSTIterator	l_173/l_173.go	/^type BSTIterator struct {$/;"	s	package:leetcode
+CheckIn	l_1396/l_1396.go	/^func (this *UndergroundSystem) CheckIn(id int, stationName string, t int) {$/;"	f	struct:leetcode.UndergroundSystem
+CheckOut	l_1396/l_1396.go	/^func (this *UndergroundSystem) CheckOut(id int, stationName string, t int) {$/;"	f	struct:leetcode.UndergroundSystem
+Codec	l_535/l_535.go	/^type Codec struct {$/;"	s	package:leetcode
+Constructor	l_1396/l_1396.go	/^func Constructor() UndergroundSystem {$/;"	f	package:leetcode	typeref:typename:UndergroundSystem
+Constructor	l_173/l_173.go	/^func Constructor(root *TreeNode) BSTIterator {$/;"	f	package:leetcode	typeref:typename:BSTIterator
+Constructor	l_225/l_225.go	/^func Constructor() MyStack {$/;"	f	package:leetcode	typeref:typename:MyStack
+Constructor	l_232/l_232.go	/^func Constructor() MyQueue {$/;"	f	package:leetcode	typeref:typename:MyQueue
+Constructor	l_284/l_284.go	/^func Constructor(iter *Iterator) *PeekingIterator {$/;"	f	package:leetcode	typeref:typename:*PeekingIterator
+Constructor	l_341/l_341.go	/^func Constructor(nestedList []*NestedInteger) *NestedIterator {$/;"	f	package:leetcode	typeref:typename:*NestedIterator
+Constructor	l_535/l_535.go	/^func Constructor() Codec {$/;"	f	package:leetcode	typeref:typename:Codec
+Constructor	l_705/l_705.go	/^func Constructor() MyHashSet {$/;"	f	package:leetcode	typeref:typename:MyHashSet
+Constructor	l_706/l_706.go	/^func Constructor() MyHashMap {$/;"	f	package:leetcode	typeref:typename:MyHashMap
+Contains	l_705/l_705.go	/^func (this *MyHashSet) Contains(key int) bool {$/;"	f	struct:leetcode.MyHashSet	typeref:typename:bool
+Empty	l_225/l_225.go	/^func (this *MyStack) Empty() bool {$/;"	f	struct:leetcode.MyStack	typeref:typename:bool
+Empty	l_232/l_232.go	/^func (this *MyQueue) Empty() bool {$/;"	f	struct:leetcode.MyQueue	typeref:typename:bool
+Find	l_1202/l_1202.go	/^func (set *Set) Find(x int) int {$/;"	f	struct:leetcode.Set	typeref:typename:int
+Get	l_706/l_706.go	/^func (this *MyHashMap) Get(key int) int {$/;"	f	struct:leetcode.MyHashMap	typeref:typename:int
+GetAverageTime	l_1396/l_1396.go	/^func (this *UndergroundSystem) GetAverageTime(startStation, endStation string) float64 {$/;"	f	struct:leetcode.UndergroundSystem	typeref:typename:float64
+GetInteger	l_341/l_341.go	/^func (this NestedInteger) GetInteger() int { return 0 }$/;"	f	struct:leetcode.NestedInteger	typeref:typename:int
+GetList	l_341/l_341.go	/^func (this NestedInteger) GetList() []*NestedInteger { return make([]*NestedInteger, 0) }$/;"	f	struct:leetcode.NestedInteger	typeref:typename:[]*NestedInteger
+HasNext	l_173/l_173.go	/^func (this *BSTIterator) HasNext() bool {$/;"	f	struct:leetcode.BSTIterator	typeref:typename:bool
+HasNext	l_341/l_341.go	/^func (this *NestedIterator) HasNext() bool {$/;"	f	struct:leetcode.NestedIterator	typeref:typename:bool
+Hash	l_706/l_706.go	/^func (this *MyHashMap) Hash(key int) int {$/;"	f	struct:leetcode.MyHashMap	typeref:typename:int
+HashNode	l_706/l_706.go	/^type HashNode struct {$/;"	s	package:leetcode
+Init	l_1202/l_1202.go	/^func (set *Set) Init(n int) {$/;"	f	struct:leetcode.Set
+IntMax	l_29_un/l_29.go	/^const IntMax int = 2147483647$/;"	c	package:leetcode	typeref:typename:int
+IntMin	l_29_un/l_29.go	/^const IntMin int = -2147483648$/;"	c	package:leetcode	typeref:typename:int
+Ints2TreeNode	l_173/TreeNode.go	/^func Ints2TreeNode(ints []int) *TreeNode {$/;"	f	package:leetcode	typeref:typename:*TreeNode
+IsInteger	l_341/l_341.go	/^func (this NestedInteger) IsInteger() bool { return false }$/;"	f	struct:leetcode.NestedInteger	typeref:typename:bool
+Iterator	l_284/l_284.go	/^type Iterator struct {$/;"	s	package:leetcode
+Left	l_101/l_101.go	/^	Left  *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Left	l_102/l_102.go	/^	Left  *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Left	l_104/l_104.go	/^	Left  *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Left	l_112/l_112.go	/^	Left  *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Left	l_117/l_117.go	/^	Left  *Node$/;"	m	struct:leetcode.Node	typeref:typename:*Node
+Left	l_1302/l_1302.go	/^	Left  *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Left	l_144/l_144.go	/^	Left  *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Left	l_145/l_145.go	/^	Left  *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Left	l_173/TreeNode.go	/^	Left  *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Left	l_226/l_226.go	/^	Left  *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Left	l_235/l_235.go	/^	Left  *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Left	l_653/l_653.go	/^	Left  *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Left	l_700/l_700.go	/^	Left  *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Left	l_701/l_701.go	/^	Left  *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Left	l_94/l_94.go	/^	Left  *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Left	l_98/l_98.go	/^	Left  *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+ListNode	l_141/l_141.go	/^type ListNode struct {$/;"	s	package:leetcode
+ListNode	l_203/l_203.go	/^type ListNode struct {$/;"	s	package:leetcode
+ListNode	l_206/l_206.go	/^type ListNode struct {$/;"	s	package:leetcode
+ListNode	l_21/l_21.go	/^type ListNode struct {$/;"	s	package:leetcode
+ListNode	l_83/l_83.go	/^type ListNode struct {$/;"	s	package:leetcode
+ListNode	l_86/l_86.go	/^type ListNode struct {$/;"	s	package:leetcode
+MyHashMap	l_706/l_706.go	/^type MyHashMap struct {$/;"	s	package:leetcode
+MyHashSet	l_705/l_705.go	/^type MyHashSet struct {$/;"	s	package:leetcode
+MyQueue	l_232/l_232.go	/^type MyQueue struct {$/;"	s	package:leetcode
+MyStack	l_225/l_225.go	/^type MyStack struct {$/;"	s	package:leetcode
+NestedInteger	l_341/l_341.go	/^type NestedInteger struct {$/;"	s	package:leetcode
+NestedIterator	l_341/l_341.go	/^type NestedIterator struct {$/;"	s	package:leetcode
+Next	l_117/l_117.go	/^	Next  *Node$/;"	m	struct:leetcode.Node	typeref:typename:*Node
+Next	l_141/l_141.go	/^	Next *ListNode$/;"	m	struct:leetcode.ListNode	typeref:typename:*ListNode
+Next	l_173/l_173.go	/^func (this *BSTIterator) Next() int {$/;"	f	struct:leetcode.BSTIterator	typeref:typename:int
+Next	l_203/l_203.go	/^	Next *ListNode$/;"	m	struct:leetcode.ListNode	typeref:typename:*ListNode
+Next	l_206/l_206.go	/^	Next *ListNode$/;"	m	struct:leetcode.ListNode	typeref:typename:*ListNode
+Next	l_21/l_21.go	/^	Next *ListNode$/;"	m	struct:leetcode.ListNode	typeref:typename:*ListNode
+Next	l_341/l_341.go	/^func (this *NestedIterator) Next() int {$/;"	f	struct:leetcode.NestedIterator	typeref:typename:int
+Next	l_83/l_83.go	/^	Next *ListNode$/;"	m	struct:leetcode.ListNode	typeref:typename:*ListNode
+Next	l_86/l_86.go	/^	Next *ListNode$/;"	m	struct:leetcode.ListNode	typeref:typename:*ListNode
+NextNode	l_173/l_173.go	/^	NextNode *BSTIterator$/;"	m	struct:leetcode.BSTIterator	typeref:typename:*BSTIterator
+Node	l_117/l_117.go	/^type Node struct {$/;"	s	package:leetcode
+Node	l_173/l_173.go	/^	Node     *TreeNode$/;"	m	struct:leetcode.BSTIterator	typeref:typename:*TreeNode
+Peek	l_232/l_232.go	/^func (this *MyQueue) Peek() int {$/;"	f	struct:leetcode.MyQueue	typeref:typename:int
+PeekingIterator	l_284/l_284.go	/^type PeekingIterator struct {$/;"	s	package:leetcode
+Pop	l_225/l_225.go	/^func (this *MyStack) Pop() int {$/;"	f	struct:leetcode.MyStack	typeref:typename:int
+Pop	l_232/l_232.go	/^func (this *MyQueue) Pop() int {$/;"	f	struct:leetcode.MyQueue	typeref:typename:int
+Push	l_225/l_225.go	/^func (this *MyStack) Push(x int) {$/;"	f	struct:leetcode.MyStack
+Push	l_232/l_232.go	/^func (this *MyQueue) Push(x int) {$/;"	f	struct:leetcode.MyQueue
+Put	l_706/l_706.go	/^func (this *MyHashMap) Put(key int, value int) {$/;"	f	struct:leetcode.MyHashMap
+Remove	l_705/l_705.go	/^func (this *MyHashSet) Remove(key int) {$/;"	f	struct:leetcode.MyHashSet
+Remove	l_706/l_706.go	/^func (this *MyHashMap) Remove(key int) {$/;"	f	struct:leetcode.MyHashMap
+Right	l_101/l_101.go	/^	Right *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Right	l_102/l_102.go	/^	Right *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Right	l_104/l_104.go	/^	Right *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Right	l_112/l_112.go	/^	Right *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Right	l_117/l_117.go	/^	Right *Node$/;"	m	struct:leetcode.Node	typeref:typename:*Node
+Right	l_1302/l_1302.go	/^	Right *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Right	l_144/l_144.go	/^	Right *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Right	l_145/l_145.go	/^	Right *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Right	l_173/TreeNode.go	/^	Right *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Right	l_226/l_226.go	/^	Right *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Right	l_235/l_235.go	/^	Right *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Right	l_653/l_653.go	/^	Right *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Right	l_700/l_700.go	/^	Right *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Right	l_701/l_701.go	/^	Right *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Right	l_94/l_94.go	/^	Right *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Right	l_98/l_98.go	/^	Right *TreeNode$/;"	m	struct:leetcode.TreeNode	typeref:typename:*TreeNode
+Set	l_1202/l_1202.go	/^type Set struct {$/;"	s	package:leetcode
+Set	l_1631/l_1631.go	/^type Set struct {$/;"	s	package:leetcode
+Set	l_785/l_785.go	/^type Set struct {$/;"	s	package:leetcode
+SetInteger	l_341/l_341.go	/^func (n *NestedInteger) SetInteger(value int) {}$/;"	f	struct:leetcode.NestedInteger
+TestConstructor	l_173/l_173_test.go	/^func TestConstructor(t *testing.T) {$/;"	f	package:leetcode
+TestMyHashSet	l_705/l_705_test.go	/^func TestMyHashSet(t *testing.T) {$/;"	f	package:leetcode
+TestMyHashSet	l_706/l_706_test.go	/^func TestMyHashSet(t *testing.T) {$/;"	f	package:leetcode
+Test_coinChange	l_322/l_322_test.go	/^func Test_coinChange(t *testing.T) {$/;"	f	package:leetcode
+Test_containsDuplicate	l_217/l_217_test.go	/^func Test_containsDuplicate(t *testing.T) {$/;"	f	package:leetcode
+Test_countSubstrings	l_647/l_647_test.go	/^func Test_countSubstrings(t *testing.T) {$/;"	f	package:leetcode
+Test_divide	l_29_un/l_29_test.go	/^func Test_divide(t *testing.T) {$/;"	f	package:leetcode
+Test_equationsPossible	l_990/l_990_test.go	/^func Test_equationsPossible(t *testing.T) {$/;"	f	package:leetcode
+Test_find132pattern	l_456/l_456_test.go	/^func Test_find132pattern(t *testing.T) {$/;"	f	package:leetcode
+Test_findMaxForm	l_474/l_474_test.go	/^func Test_findMaxForm(t *testing.T) {$/;"	f	package:leetcode
+Test_fourSum	l_18/l_18_test.go	/^func Test_fourSum(t *testing.T) {$/;"	f	package:leetcode
+Test_grayCode	l_89/l_89_test.go	/^func Test_grayCode(t *testing.T) {$/;"	f	package:leetcode
+Test_hasAllCodes	l_1461/l_1461_test.go	/^func Test_hasAllCodes(t *testing.T) {$/;"	f	package:leetcode
+Test_intToRoman	l_12/l_12_test.go	/^func Test_intToRoman(t *testing.T) {$/;"	f	package:leetcode
+Test_intersect	l_350/l_350_test.go	/^func Test_intersect(t *testing.T) {$/;"	f	package:leetcode
+Test_isBipartite	l_785/l_785_test.go	/^func Test_isBipartite(t *testing.T) {$/;"	f	package:leetcode
+Test_letterCombinations	l_17/l_17_test.go	/^func Test_letterCombinations(t *testing.T) {$/;"	f	package:leetcode
+Test_longestIncreasingPath	l_329_H/l_329_test.go	/^func Test_longestIncreasingPath(t *testing.T) {$/;"	f	package:leetcode
+Test_maxEnvelopes	l_354/l_354_test.go	/^func Test_maxEnvelopes(t *testing.T) {$/;"	f	package:leetcode
+Test_maxSubArray	l_53/l_53_test.go	/^func Test_maxSubArray(t *testing.T) {$/;"	f	package:leetcode
+Test_networkDelayTime	l_743/l_743_test.go	/^func Test_networkDelayTime(t *testing.T) {$/;"	f	package:leetcode
+Test_partition	l_86/l_86_test.go	/^func Test_partition(t *testing.T) {$/;"	f	package:leetcode
+Test_removeDuplicates	l_80/l_80_test.go	/^func Test_removeDuplicates(t *testing.T) {$/;"	f	package:leetcode
+Test_runningSum	l_1480/l_1480_test.go	/^func Test_runningSum(t *testing.T) {$/;"	f	package:leetcode
+Top	l_225/l_225.go	/^func (this *MyStack) Top() int {$/;"	f	struct:leetcode.MyStack	typeref:typename:int
+Tree2Ints	l_173/TreeNode.go	/^func Tree2Ints(tn *TreeNode) []int {$/;"	f	package:leetcode	typeref:typename:[]int
+TreeNode	l_101/l_101.go	/^type TreeNode struct {$/;"	s	package:leetcode
+TreeNode	l_102/l_102.go	/^type TreeNode struct {$/;"	s	package:leetcode
+TreeNode	l_104/l_104.go	/^type TreeNode struct {$/;"	s	package:leetcode
+TreeNode	l_112/l_112.go	/^type TreeNode struct {$/;"	s	package:leetcode
+TreeNode	l_1302/l_1302.go	/^type TreeNode struct {$/;"	s	package:leetcode
+TreeNode	l_144/l_144.go	/^type TreeNode struct {$/;"	s	package:leetcode
+TreeNode	l_145/l_145.go	/^type TreeNode struct {$/;"	s	package:leetcode
+TreeNode	l_173/TreeNode.go	/^type TreeNode struct {$/;"	s	package:leetcode
+TreeNode	l_226/l_226.go	/^type TreeNode struct {$/;"	s	package:leetcode
+TreeNode	l_235/l_235.go	/^type TreeNode struct {$/;"	s	package:leetcode
+TreeNode	l_653/l_653.go	/^type TreeNode struct {$/;"	s	package:leetcode
+TreeNode	l_700/l_700.go	/^type TreeNode struct {$/;"	s	package:leetcode
+TreeNode	l_701/l_701.go	/^type TreeNode struct {$/;"	s	package:leetcode
+TreeNode	l_94/l_94.go	/^type TreeNode struct {$/;"	s	package:leetcode
+TreeNode	l_98/l_98.go	/^type TreeNode struct {$/;"	s	package:leetcode
+UndergroundSystem	l_1396/l_1396.go	/^type UndergroundSystem struct {$/;"	s	package:leetcode
+Union	l_1202/l_1202.go	/^func (set *Set) Union(x, y int) {$/;"	f	struct:leetcode.Set
+Val	l_101/l_101.go	/^	Val   int$/;"	m	struct:leetcode.TreeNode	typeref:typename:int
+Val	l_102/l_102.go	/^	Val   int$/;"	m	struct:leetcode.TreeNode	typeref:typename:int
+Val	l_104/l_104.go	/^	Val   int$/;"	m	struct:leetcode.TreeNode	typeref:typename:int
+Val	l_112/l_112.go	/^	Val   int$/;"	m	struct:leetcode.TreeNode	typeref:typename:int
+Val	l_117/l_117.go	/^	Val   int$/;"	m	struct:leetcode.Node	typeref:typename:int
+Val	l_1302/l_1302.go	/^	Val   int$/;"	m	struct:leetcode.TreeNode	typeref:typename:int
+Val	l_141/l_141.go	/^	Val  int$/;"	m	struct:leetcode.ListNode	typeref:typename:int
+Val	l_144/l_144.go	/^	Val   int$/;"	m	struct:leetcode.TreeNode	typeref:typename:int
+Val	l_145/l_145.go	/^	Val   int$/;"	m	struct:leetcode.TreeNode	typeref:typename:int
+Val	l_173/TreeNode.go	/^	Val   int$/;"	m	struct:leetcode.TreeNode	typeref:typename:int
+Val	l_203/l_203.go	/^	Val  int$/;"	m	struct:leetcode.ListNode	typeref:typename:int
+Val	l_206/l_206.go	/^	Val  int$/;"	m	struct:leetcode.ListNode	typeref:typename:int
+Val	l_21/l_21.go	/^	Val  int$/;"	m	struct:leetcode.ListNode	typeref:typename:int
+Val	l_226/l_226.go	/^	Val   int$/;"	m	struct:leetcode.TreeNode	typeref:typename:int
+Val	l_235/l_235.go	/^	Val   int$/;"	m	struct:leetcode.TreeNode	typeref:typename:int
+Val	l_653/l_653.go	/^	Val   int$/;"	m	struct:leetcode.TreeNode	typeref:typename:int
+Val	l_700/l_700.go	/^	Val   int$/;"	m	struct:leetcode.TreeNode	typeref:typename:int
+Val	l_701/l_701.go	/^	Val   int$/;"	m	struct:leetcode.TreeNode	typeref:typename:int
+Val	l_83/l_83.go	/^	Val  int$/;"	m	struct:leetcode.ListNode	typeref:typename:int
+Val	l_86/l_86.go	/^	Val  int$/;"	m	struct:leetcode.ListNode	typeref:typename:int
+Val	l_94/l_94.go	/^	Val   int$/;"	m	struct:leetcode.TreeNode	typeref:typename:int
+Val	l_98/l_98.go	/^	Val   int$/;"	m	struct:leetcode.TreeNode	typeref:typename:int
+_q	l_232/l_232.go	/^	_q []int$/;"	m	struct:leetcode.MyQueue	typeref:typename:[]int
+abs	l_1584/l_1584.go	/^func abs(a int) int {$/;"	f	package:leetcode	typeref:typename:int
+abs	l_1631/l_1631.go	/^func abs(a int) int {$/;"	f	package:leetcode	typeref:typename:int
+abs	l_29_un/l_29.go	/^func abs(a int) int {$/;"	f	package:leetcode	typeref:typename:int
+allRecords	l_1396/l_1396.go	/^	allRecords map[string]map[string]*stationTime$/;"	m	struct:leetcode.UndergroundSystem	typeref:typename:map[string]map[string]*stationTime
+backspaceCompare	l_844/l_844.go	/^func backspaceCompare(s string, t string) bool {$/;"	f	package:leetcode	typeref:typename:bool
+bfs	l_329_H/l_329.go	/^func bfs(matrix, dirs, visited *[][]int, m, n, x, y int) int {$/;"	f	package:leetcode	typeref:typename:int
+calcEquation	l_399/l_399.go	/^func calcEquation(equations [][]string, values []float64, queries [][]string) []float64 {$/;"	f	package:leetcode	typeref:typename:[]float64
+canConstruct	l_383/l_383.go	/^func canConstruct(ransomNote string, magazine string) bool {$/;"	f	package:leetcode	typeref:typename:bool
+ch	l_32/l_32.go	/^	ch  byte$/;"	m	struct:leetcode.pair	typeref:typename:byte
+char	l_1209/l_1209.go	/^	char  byte$/;"	m	struct:leetcode.pair	typeref:typename:byte
+check	l_98/l_98.go	/^func check(root *TreeNode, min, max int) bool {$/;"	f	package:leetcode	typeref:typename:bool
+checkInTime	l_1396/l_1396.go	/^type checkInTime struct {$/;"	s	package:leetcode
+coinChange	l_322/l_322.go	/^func coinChange(coins []int, amount int) int {$/;"	f	package:leetcode	typeref:typename:int
+combinationSum3	l_216/l_216.go	/^func combinationSum3(k int, n int) [][]int {$/;"	f	package:leetcode	typeref:typename:[][]int
+connect	l_117/l_117.go	/^func connect(root *Node) *Node {$/;"	f	package:leetcode	typeref:typename:*Node
+containsDuplicate	l_217/l_217.go	/^func containsDuplicate(nums []int) bool {$/;"	f	package:leetcode	typeref:typename:bool
+containsDuplicate2	l_217/l_217.go	/^func containsDuplicate2(nums []int) bool {$/;"	f	package:leetcode	typeref:typename:bool
+count	l_1209/l_1209.go	/^	count int$/;"	m	struct:leetcode.pair	typeref:typename:int
+count	l_1396/l_1396.go	/^	sum, count int$/;"	m	struct:leetcode.stationTime	typeref:typename:int
+count	l_785/l_785.go	/^	count  int$/;"	m	struct:leetcode.Set	typeref:typename:int
+countSubstrings	l_647/l_647.go	/^func countSubstrings(s string) int {$/;"	f	package:leetcode	typeref:typename:int
+countVowelStrings	l_1641/l_1641.go	/^func countVowelStrings(n int) int {$/;"	f	package:leetcode	typeref:typename:int
+criticalConnections	l_1192_H_un/l_1192.go	/^func criticalConnections(n int, connections [][]int) [][]int {$/;"	f	package:leetcode	typeref:typename:[][]int
+currRecord	l_1396/l_1396.go	/^	currRecord map[int]*checkInTime$/;"	m	struct:leetcode.UndergroundSystem	typeref:typename:map[int]*checkInTime
+data	l_705/l_705.go	/^	data map[int]bool$/;"	m	struct:leetcode.MyHashSet	typeref:typename:map[int]bool
+data	l_706/l_706.go	/^	data []*HashNode$/;"	m	struct:leetcode.MyHashMap	typeref:typename:[]*HashNode
+decode	l_535/l_535.go	/^func (this *Codec) decode(shortUrl string) string {$/;"	f	struct:leetcode.Codec	typeref:typename:string
+deepestLeavesSum	l_1302/l_1302.go	/^func deepestLeavesSum(root *TreeNode) int {$/;"	f	package:leetcode	typeref:typename:int
+deleteDuplicates	l_83/l_83.go	/^func deleteDuplicates(head *ListNode) *ListNode {$/;"	f	package:leetcode	typeref:typename:*ListNode
+dfs	l_1192_H_un/l_1192.go	/^func dfs(u int, low, disc []int, graph, res *[][]int, pre int, time *int) {$/;"	f	package:leetcode
+dfs	l_216/l_216.go	/^func dfs(curr []int, start, k, n int, res *[][]int) {$/;"	f	package:leetcode
+dir	l_1631/l_1631.go	/^var dir = [4][2]int{$/;"	v	package:leetcode
+distance	l_1584/l_1584.go	/^func distance(a, b []int) int {$/;"	f	package:leetcode	typeref:typename:int
+divide	l_29_un/l_29.go	/^func divide(divided int, divisor int) int {$/;"	f	package:leetcode	typeref:typename:int
+edge	l_1631/l_1631.go	/^type edge struct {$/;"	s	package:leetcode
+encode	l_535/l_535.go	/^func (this *Codec) encode(longUrl string) string {$/;"	f	struct:leetcode.Codec	typeref:typename:string
+equalList	l_86/l_86_test.go	/^func equalList(l1, l2 *ListNode) bool {$/;"	f	package:leetcode	typeref:typename:bool
+equationsPossible	l_990/l_990.go	/^func equationsPossible(equations []string) bool {$/;"	f	package:leetcode	typeref:typename:bool
+find	l_1631/l_1631.go	/^func (s *Set) find(x int) int {$/;"	f	struct:leetcode.Set	typeref:typename:int
+find	l_399/l_399.go	/^func (s *stringSet) find(x string) (parent string, value float64, err bool) {$/;"	f	struct:leetcode.stringSet	typeref:typename:(parent string, value float64, err bool)
+find	l_785/l_785.go	/^func (s *Set) find(x int) int {$/;"	f	struct:leetcode.Set	typeref:typename:int
+find	l_990/l_990.go	/^func (p *union) find(a int) int {$/;"	f	struct:leetcode.union	typeref:typename:int
+find132pattern	l_456/l_456.go	/^func find132pattern(nums []int) bool {$/;"	f	package:leetcode	typeref:typename:bool
+findMaxForm	l_474/l_474.go	/^func findMaxForm(strs []string, m int, n int) int {$/;"	f	package:leetcode	typeref:typename:int
+findTarget	l_653/l_653.go	/^func findTarget(root *TreeNode, k int) bool {$/;"	f	package:leetcode	typeref:typename:bool
+findTarget1	l_653/l_653.go	/^func findTarget1(root *TreeNode, k int) bool {$/;"	f	package:leetcode	typeref:typename:bool
+findTargetDFS	l_653/l_653.go	/^func findTargetDFS(root *TreeNode, k int, m map[int]int) bool {$/;"	f	package:leetcode	typeref:typename:bool
+findUnsortedSubarray	l_581/l_581.go	/^func findUnsortedSubarray(nums []int) int {$/;"	f	package:leetcode	typeref:typename:int
+findUnsortedSubarray1	l_581/l_581.go	/^func findUnsortedSubarray1(nums []int) int {$/;"	f	package:leetcode	typeref:typename:int
+firstUniqChar	l_387/l_387.go	/^func firstUniqChar(s string) int {$/;"	f	package:leetcode	typeref:typename:int
+fourSum	l_18/l_18.go	/^func fourSum(nums []int, target int) [][]int {$/;"	f	package:leetcode	typeref:typename:[][]int
+generate	l_118/l_118.go	/^func generate(numRows int) [][]int {$/;"	f	package:leetcode	typeref:typename:[][]int
+generateList	l_86/l_86_test.go	/^func generateList(nums []int) *ListNode {$/;"	f	package:leetcode	typeref:typename:*ListNode
+generateSubsetsWithDup	l_90/l_90.go	/^func generateSubsetsWithDup(nums *[]int, start int, curr []int, res *[][]int) {$/;"	f	package:leetcode
+grayCode	l_89/l_89.go	/^func grayCode(n int) []int {$/;"	f	package:leetcode	typeref:typename:[]int
+hasAllCodes	l_1461/l_1461.go	/^func hasAllCodes(s string, k int) bool {$/;"	f	package:leetcode	typeref:typename:bool
+hasCycle	l_141/l_141.go	/^func hasCycle(head *ListNode) bool {$/;"	f	package:leetcode	typeref:typename:bool
+hasNext	l_284/l_284.go	/^func (this *Iterator) hasNext() bool {$/;"	f	struct:leetcode.Iterator	typeref:typename:bool
+hasNext	l_284/l_284.go	/^func (this *PeekingIterator) hasNext() bool {$/;"	f	struct:leetcode.PeekingIterator	typeref:typename:bool
+hasNext	l_341/l_341.go	/^	hasNext []bool$/;"	m	struct:leetcode.NestedIterator	typeref:typename:[]bool
+hasPath	l_1631/l_1631.go	/^func hasPath(heights [][]int, visited [][]bool, i, j, threshold int) bool {$/;"	f	package:leetcode	typeref:typename:bool
+hasPathSum	l_112/l_112.go	/^func hasPathSum(root *TreeNode, targetSum int) bool {$/;"	f	package:leetcode	typeref:typename:bool
+haveNext	l_284/l_284.go	/^	haveNext bool$/;"	m	struct:leetcode.PeekingIterator	typeref:typename:bool
+idx	l_32/l_32.go	/^	idx int$/;"	m	struct:leetcode.pair	typeref:typename:int
+index	l_341/l_341.go	/^	index   []int$/;"	m	struct:leetcode.NestedIterator	typeref:typename:[]int
+init	l_1631/l_1631.go	/^func (s *Set) init(n int) {$/;"	f	struct:leetcode.Set
+init	l_399/l_399.go	/^func (s *stringSet) init(xs ...string) {$/;"	f	struct:leetcode.stringSet
+init	l_785/l_785.go	/^func (s *Set) init(n int) {$/;"	f	struct:leetcode.Set
+init	l_990/l_990.go	/^func (p *union) init(n int) {$/;"	f	struct:leetcode.union
+inorderTraversal	l_94/l_94.go	/^func inorderTraversal(root *TreeNode) []int {$/;"	f	package:leetcode	typeref:typename:[]int
+insertIntoBST	l_701/l_701.go	/^func insertIntoBST(root *TreeNode, val int) *TreeNode {$/;"	f	package:leetcode	typeref:typename:*TreeNode
+int64Max	l_98/l_98.go	/^var int64Min, int64Max int = -1 << 63, 1<<63 - 1$/;"	v	package:leetcode	typeref:typename:int
+int64Min	l_98/l_98.go	/^var int64Min, int64Max int = -1 << 63, 1<<63 - 1$/;"	v	package:leetcode	typeref:typename:int
+intMax	l_1584/l_1584.go	/^const intMax = int(^uint(0) >> 1)$/;"	c	package:leetcode
+intToRoman	l_12/l_12.go	/^func intToRoman(num int) string {$/;"	f	package:leetcode	typeref:typename:string
+intersect	l_350/l_350.go	/^func intersect(nums1 []int, nums2 []int) []int {$/;"	f	package:leetcode	typeref:typename:[]int
+invertTree	l_226/l_226.go	/^func invertTree(root *TreeNode) *TreeNode {$/;"	f	package:leetcode	typeref:typename:*TreeNode
+isAnagram	l_242/l_242.go	/^func isAnagram(s string, t string) bool {$/;"	f	package:leetcode	typeref:typename:bool
+isBipartite	l_785/l_785.go	/^func isBipartite(graph [][]int) bool {$/;"	f	package:leetcode	typeref:typename:bool
+isConnected	l_785/l_785.go	/^func (s *Set) isConnected(a, b int) bool {$/;"	f	struct:leetcode.Set	typeref:typename:bool
+isSymmetric	l_101/l_101.go	/^func isSymmetric(root *TreeNode) bool {$/;"	f	package:leetcode	typeref:typename:bool
+isValid	l_20/l_20.go	/^func isValid(s string) bool {$/;"	f	package:leetcode	typeref:typename:bool
+isValidBST	l_98/l_98.go	/^func isValidBST(root *TreeNode) bool {$/;"	f	package:leetcode	typeref:typename:bool
+isValidSudoku	l_36/l_36.go	/^func isValidSudoku(board [][]byte) bool {$/;"	f	package:leetcode	typeref:typename:bool
+iter	l_284/l_284.go	/^	iter     *Iterator$/;"	m	struct:leetcode.PeekingIterator	typeref:typename:*Iterator
+key	l_706/l_706.go	/^	key  int$/;"	m	struct:leetcode.HashNode	typeref:typename:int
+leetcode	l_1/l_1.go	/^package leetcode$/;"	p
+leetcode	l_101/l_101.go	/^package leetcode$/;"	p
+leetcode	l_102/l_102.go	/^package leetcode$/;"	p
+leetcode	l_104/l_104.go	/^package leetcode$/;"	p
+leetcode	l_1091/l_1091.go	/^package leetcode$/;"	p
+leetcode	l_112/l_112.go	/^package leetcode$/;"	p
+leetcode	l_117/l_117.go	/^package leetcode$/;"	p
+leetcode	l_118/l_118.go	/^package leetcode$/;"	p
+leetcode	l_1192_H_un/l_1192.go	/^package leetcode$/;"	p
+leetcode	l_12/l_12.go	/^package leetcode$/;"	p
+leetcode	l_12/l_12_test.go	/^package leetcode$/;"	p
+leetcode	l_1202/l_1202.go	/^package leetcode$/;"	p
+leetcode	l_1209/l_1209.go	/^package leetcode$/;"	p
+leetcode	l_121/l_121.go	/^package leetcode$/;"	p
+leetcode	l_1302/l_1302.go	/^package leetcode$/;"	p
+leetcode	l_1396/l_1396.go	/^package leetcode$/;"	p
+leetcode	l_141/l_141.go	/^package leetcode$/;"	p
+leetcode	l_144/l_144.go	/^package leetcode$/;"	p
+leetcode	l_145/l_145.go	/^package leetcode$/;"	p
+leetcode	l_1461/l_1461.go	/^package leetcode$/;"	p
+leetcode	l_1461/l_1461_test.go	/^package leetcode$/;"	p
+leetcode	l_1480/l_1480.go	/^package leetcode$/;"	p
+leetcode	l_1480/l_1480_test.go	/^package leetcode$/;"	p
+leetcode	l_1584/l_1584.go	/^package leetcode$/;"	p
+leetcode	l_1631/l_1631.go	/^package leetcode$/;"	p
+leetcode	l_1641/l_1641.go	/^package leetcode$/;"	p
+leetcode	l_1679/l_1679.go	/^package leetcode$/;"	p
+leetcode	l_17/l_17.go	/^package leetcode$/;"	p
+leetcode	l_17/l_17_test.go	/^package leetcode$/;"	p
+leetcode	l_173/TreeNode.go	/^package leetcode$/;"	p
+leetcode	l_173/l_173.go	/^package leetcode$/;"	p
+leetcode	l_173/l_173_test.go	/^package leetcode$/;"	p
+leetcode	l_18/l_18.go	/^package leetcode$/;"	p
+leetcode	l_18/l_18_test.go	/^package leetcode$/;"	p
+leetcode	l_20/l_20.go	/^package leetcode$/;"	p
+leetcode	l_203/l_203.go	/^package leetcode$/;"	p
+leetcode	l_206/l_206.go	/^package leetcode$/;"	p
+leetcode	l_21/l_21.go	/^package leetcode$/;"	p
+leetcode	l_216/l_216.go	/^package leetcode$/;"	p
+leetcode	l_217/l_217.go	/^package leetcode$/;"	p
+leetcode	l_217/l_217_test.go	/^package leetcode$/;"	p
+leetcode	l_225/l_225.go	/^package leetcode$/;"	p
+leetcode	l_226/l_226.go	/^package leetcode$/;"	p
+leetcode	l_232/l_232.go	/^package leetcode$/;"	p
+leetcode	l_235/l_235.go	/^package leetcode$/;"	p
+leetcode	l_242/l_242.go	/^package leetcode$/;"	p
+leetcode	l_284/l_284.go	/^package leetcode$/;"	p
+leetcode	l_29_un/l_29.go	/^package leetcode$/;"	p
+leetcode	l_29_un/l_29_test.go	/^package leetcode$/;"	p
+leetcode	l_32/l_32.go	/^package leetcode$/;"	p
+leetcode	l_322/l_322.go	/^package leetcode$/;"	p
+leetcode	l_322/l_322_test.go	/^package leetcode$/;"	p
+leetcode	l_329_H/l_329.go	/^package leetcode$/;"	p
+leetcode	l_329_H/l_329_test.go	/^package leetcode$/;"	p
+leetcode	l_341/l_341.go	/^package leetcode$/;"	p
+leetcode	l_350/l_350.go	/^package leetcode$/;"	p
+leetcode	l_350/l_350_test.go	/^package leetcode$/;"	p
+leetcode	l_354/l_354.go	/^package leetcode$/;"	p
+leetcode	l_354/l_354_test.go	/^package leetcode$/;"	p
+leetcode	l_36/l_36.go	/^package leetcode$/;"	p
+leetcode	l_383/l_383.go	/^package leetcode$/;"	p
+leetcode	l_387/l_387.go	/^package leetcode$/;"	p
+leetcode	l_399/l_399.go	/^package leetcode$/;"	p
+leetcode	l_456/l_456.go	/^package leetcode$/;"	p
+leetcode	l_456/l_456_test.go	/^package leetcode$/;"	p
+leetcode	l_47/l_47.go	/^package leetcode$/;"	p
+leetcode	l_474/l_474.go	/^package leetcode$/;"	p
+leetcode	l_474/l_474_test.go	/^package leetcode$/;"	p
+leetcode	l_53/l_53.go	/^package leetcode$/;"	p
+leetcode	l_53/l_53_test.go	/^package leetcode$/;"	p
+leetcode	l_535/l_535.go	/^package leetcode$/;"	p
+leetcode	l_556/l_556.go	/^package leetcode$/;"	p
+leetcode	l_581/l_581.go	/^package leetcode$/;"	p
+leetcode	l_647/l_647.go	/^package leetcode$/;"	p
+leetcode	l_647/l_647_test.go	/^package leetcode$/;"	p
+leetcode	l_653/l_653.go	/^package leetcode$/;"	p
+leetcode	l_700/l_700.go	/^package leetcode$/;"	p
+leetcode	l_701/l_701.go	/^package leetcode$/;"	p
+leetcode	l_705/l_705.go	/^package leetcode$/;"	p
+leetcode	l_705/l_705_test.go	/^package leetcode$/;"	p
+leetcode	l_706/l_706.go	/^package leetcode$/;"	p
+leetcode	l_706/l_706_test.go	/^package leetcode$/;"	p
+leetcode	l_74/l_74.go	/^package leetcode$/;"	p
+leetcode	l_743/l_743.go	/^package leetcode$/;"	p
+leetcode	l_743/l_743_test.go	/^package leetcode$/;"	p
+leetcode	l_785/l_785.go	/^package leetcode$/;"	p
+leetcode	l_785/l_785_test.go	/^package leetcode$/;"	p
+leetcode	l_80/l_80.go	/^package leetcode$/;"	p
+leetcode	l_80/l_80_test.go	/^package leetcode$/;"	p
+leetcode	l_83/l_83.go	/^package leetcode$/;"	p
+leetcode	l_844/l_844.go	/^package leetcode$/;"	p
+leetcode	l_86/l_86.go	/^package leetcode$/;"	p
+leetcode	l_86/l_86_test.go	/^package leetcode$/;"	p
+leetcode	l_88/l_88.go	/^package leetcode$/;"	p
+leetcode	l_89/l_89.go	/^package leetcode$/;"	p
+leetcode	l_89/l_89_test.go	/^package leetcode$/;"	p
+leetcode	l_90/l_90.go	/^package leetcode$/;"	p
+leetcode	l_905/l_905.go	/^package leetcode$/;"	p
+leetcode	l_91/l_91.go	/^package leetcode$/;"	p
+leetcode	l_94/l_94.go	/^package leetcode$/;"	p
+leetcode	l_98/l_98.go	/^package leetcode$/;"	p
+leetcode	l_990/l_990.go	/^package leetcode$/;"	p
+leetcode	l_990/l_990_test.go	/^package leetcode$/;"	p
+leetcode_go	readme.md	/^# leetcode_go$/;"	c
+letterCombinations	l_17/l_17.go	/^func letterCombinations(digits string) []string {$/;"	f	package:leetcode	typeref:typename:[]string
+levelOrder	l_102/l_102.go	/^func levelOrder(root *TreeNode) [][]int {$/;"	f	package:leetcode	typeref:typename:[][]int
+longestIncreasingPath	l_329_H/l_329.go	/^func longestIncreasingPath(matrix [][]int) int {$/;"	f	package:leetcode	typeref:typename:int
+longestValidParentheses	l_32/l_32.go	/^func longestValidParentheses(s string) int {$/;"	f	package:leetcode	typeref:typename:int
+lowestCommonAncestor	l_235/l_235.go	/^func lowestCommonAncestor(root, p, q *TreeNode) *TreeNode {$/;"	f	package:leetcode	typeref:typename:*TreeNode
+matrixReshape	l_556/l_556.go	/^func matrixReshape(mat [][]int, r int, c int) [][]int {$/;"	f	package:leetcode	typeref:typename:[][]int
+max	l_104/l_104.go	/^func max(a, b int) int {$/;"	f	package:leetcode	typeref:typename:int
+max	l_1631/l_1631.go	/^func max(a, b int) int {$/;"	f	package:leetcode	typeref:typename:int
+max	l_329_H/l_329.go	/^func max(a, b int) int {$/;"	f	package:leetcode	typeref:typename:int
+max	l_53/l_53.go	/^func max(a, b int) int {$/;"	f	package:leetcode	typeref:typename:int
+maxDepth	l_104/l_104.go	/^func maxDepth(root *TreeNode) int {$/;"	f	package:leetcode	typeref:typename:int
+maxEnvelopes	l_354/l_354.go	/^func maxEnvelopes(envelopes [][]int) int {$/;"	f	package:leetcode	typeref:typename:int
+maxOperations	l_1679/l_1679.go	/^func maxOperations(nums []int, k int) int {$/;"	f	package:leetcode	typeref:typename:int
+maxOperations1	l_1679/l_1679.go	/^func maxOperations1(nums []int, k int) int {$/;"	f	package:leetcode	typeref:typename:int
+maxProfit	l_121/l_121.go	/^func maxProfit(prices []int) int {$/;"	f	package:leetcode	typeref:typename:int
+maxSubArray	l_53/l_53.go	/^func maxSubArray(nums []int) int {$/;"	f	package:leetcode	typeref:typename:int
+merge	l_88/l_88.go	/^func merge(nums1 []int, m int, nums2 []int, n int) {$/;"	f	package:leetcode
+merge	l_990/l_990.go	/^func (p *union) merge(a, b int) {$/;"	f	struct:leetcode.union
+mergeTwoLists	l_21/l_21.go	/^func mergeTwoLists(list1 *ListNode, list2 *ListNode) *ListNode {$/;"	f	package:leetcode	typeref:typename:*ListNode
+min	l_1192_H_un/l_1192.go	/^func min(a, b int) int {$/;"	f	package:leetcode	typeref:typename:int
+min	l_1631/l_1631.go	/^func min(a, b int) int {$/;"	f	package:leetcode	typeref:typename:int
+min	l_322/l_322.go	/^func min(a, b int) int {$/;"	f	package:leetcode	typeref:typename:int
+min	l_329_H/l_329.go	/^func min(a, b int) int {$/;"	f	package:leetcode	typeref:typename:int
+minCostConnectPoints	l_1584/l_1584.go	/^func minCostConnectPoints(points [][]int) int {$/;"	f	package:leetcode	typeref:typename:int
+minimumEffortPath	l_1631/l_1631.go	/^func minimumEffortPath(heights [][]int) int {$/;"	f	package:leetcode	typeref:typename:int
+minimumEffortPath1	l_1631/l_1631.go	/^func minimumEffortPath1(heights [][]int) int {$/;"	f	package:leetcode	typeref:typename:int
+networkDelayTime	l_743/l_743.go	/^func networkDelayTime(times [][]int, n int, k int) int {$/;"	f	package:leetcode	typeref:typename:int
+networkDelayTime1	l_743/l_743.go	/^func networkDelayTime1(times [][]int, n int, k int) int {$/;"	f	package:leetcode	typeref:typename:int
+next	l_284/l_284.go	/^func (this *Iterator) next() int {$/;"	f	struct:leetcode.Iterator	typeref:typename:int
+next	l_284/l_284.go	/^func (this *PeekingIterator) next() int {$/;"	f	struct:leetcode.PeekingIterator	typeref:typename:int
+next	l_341/l_341.go	/^	next    *NestedInteger$/;"	m	struct:leetcode.NestedIterator	typeref:typename:*NestedInteger
+next	l_653/l_653.go	/^func next(stack *[]*TreeNode, root *TreeNode) *TreeNode {$/;"	f	package:leetcode	typeref:typename:*TreeNode
+next	l_706/l_706.go	/^	next *HashNode$/;"	m	struct:leetcode.HashNode	typeref:typename:*HashNode
+nextElem	l_284/l_284.go	/^	nextElem int$/;"	m	struct:leetcode.PeekingIterator	typeref:typename:int
+null	l_173/TreeNode.go	/^var null = -1 << 63$/;"	v	package:leetcode
+numDecodings	l_91/l_91.go	/^func numDecodings(s string) int {$/;"	f	package:leetcode	typeref:typename:int
+pa	l_990/l_990.go	/^	pa []int$/;"	m	struct:leetcode.union	typeref:typename:[]int
+pair	l_1209/l_1209.go	/^type pair struct {$/;"	s	package:leetcode
+pair	l_32/l_32.go	/^type pair struct {$/;"	s	package:leetcode
+parent	l_1202/l_1202.go	/^	parent []int$/;"	m	struct:leetcode.Set	typeref:typename:[]int
+parent	l_1631/l_1631.go	/^	parent []int$/;"	m	struct:leetcode.Set	typeref:typename:[]int
+parent	l_399/l_399.go	/^	parent map[string]string$/;"	m	struct:leetcode.stringSet	typeref:typename:map[string]string
+parent	l_785/l_785.go	/^	parent []int$/;"	m	struct:leetcode.Set	typeref:typename:[]int
+partition	l_86/l_86.go	/^func partition(head *ListNode, x int) *ListNode {$/;"	f	package:leetcode	typeref:typename:*ListNode
+peek	l_284/l_284.go	/^func (this *PeekingIterator) peek() int {$/;"	f	struct:leetcode.PeekingIterator	typeref:typename:int
+permuteUnique	l_47/l_47.go	/^func permuteUnique(nums []int) [][]int {$/;"	f	package:leetcode	typeref:typename:[][]int
+postorderTraversal	l_145/l_145.go	/^func postorderTraversal(root *TreeNode) []int {$/;"	f	package:leetcode	typeref:typename:[]int
+preorderTraversal	l_144/l_144.go	/^func preorderTraversal(root *TreeNode) []int {$/;"	f	package:leetcode	typeref:typename:[]int
+prev	l_653/l_653.go	/^func prev(stack *[]*TreeNode, root *TreeNode) *TreeNode {$/;"	f	package:leetcode	typeref:typename:*TreeNode
+printList	l_86/l_86_test.go	/^func printList(l *ListNode) {$/;"	f	package:leetcode
+ra	l_990/l_990.go	/^	ra []int$/;"	m	struct:leetcode.union	typeref:typename:[]int
+removeDuplicates	l_1209/l_1209.go	/^func removeDuplicates(s string, k int) string {$/;"	f	package:leetcode	typeref:typename:string
+removeDuplicates	l_80/l_80.go	/^func removeDuplicates(nums []int) int {$/;"	f	package:leetcode	typeref:typename:int
+removeElements	l_203/l_203.go	/^func removeElements(head *ListNode, val int) *ListNode {$/;"	f	package:leetcode	typeref:typename:*ListNode
+reverseList	l_206/l_206.go	/^func reverseList(head *ListNode) *ListNode {$/;"	f	package:leetcode	typeref:typename:*ListNode
+reverseList1	l_206/l_206.go	/^func reverseList1(head *ListNode) *ListNode {$/;"	f	package:leetcode	typeref:typename:*ListNode
+runningSum	l_1480/l_1480.go	/^func runningSum(nums []int) []int {$/;"	f	package:leetcode	typeref:typename:[]int
+searchBST	l_700/l_700.go	/^func searchBST(root *TreeNode, val int) *TreeNode {$/;"	f	package:leetcode	typeref:typename:*TreeNode
+searchMatrix	l_74/l_74.go	/^func searchMatrix(matrix [][]int, target int) bool {$/;"	f	package:leetcode	typeref:typename:bool
+shortestPathBinaryMatrix	l_1091/l_1091.go	/^func shortestPathBinaryMatrix(grid [][]int) int {$/;"	f	package:leetcode	typeref:typename:int
+size	l_706/l_706.go	/^	size int$/;"	m	struct:leetcode.MyHashMap	typeref:typename:int
+smallestStringWithSwaps	l_1202/l_1202.go	/^func smallestStringWithSwaps(s string, pairs [][]int) string {$/;"	f	package:leetcode	typeref:typename:string
+sortArrayByParity	l_905/l_905.go	/^func sortArrayByParity(nums []int) []int {$/;"	f	package:leetcode	typeref:typename:[]int
+stack	l_225/l_225.go	/^	stack []int$/;"	m	struct:leetcode.MyStack	typeref:typename:[]int
+stack	l_341/l_341.go	/^	stack   []*[]*NestedInteger$/;"	m	struct:leetcode.NestedIterator	typeref:typename:[]*[]*NestedInteger
+startStation	l_1396/l_1396.go	/^	startStation string$/;"	m	struct:leetcode.checkInTime	typeref:typename:string
+stationTime	l_1396/l_1396.go	/^type stationTime struct {$/;"	s	package:leetcode
+stringSet	l_399/l_399.go	/^type stringSet struct {$/;"	s	package:leetcode
+subsetsWithDup	l_90/l_90.go	/^func subsetsWithDup(nums []int) [][]int {$/;"	f	package:leetcode	typeref:typename:[][]int
+sum	l_1396/l_1396.go	/^	sum, count int$/;"	m	struct:leetcode.stationTime	typeref:typename:int
+time	l_1396/l_1396.go	/^	time         int$/;"	m	struct:leetcode.checkInTime	typeref:typename:int
+twoSum	l_1/l_1.go	/^func twoSum(nums []int, target int) []int {$/;"	f	package:leetcode	typeref:typename:[]int
+union	l_1631/l_1631.go	/^func (s *Set) union(x, y int) {$/;"	f	struct:leetcode.Set
+union	l_399/l_399.go	/^func (s *stringSet) union(a, b string, v float64) {$/;"	f	struct:leetcode.stringSet
+union	l_785/l_785.go	/^func (s *Set) union(a, b int) {$/;"	f	struct:leetcode.Set
+union	l_990/l_990.go	/^type union struct {$/;"	s	package:leetcode
+v1	l_1631/l_1631.go	/^	v1, v2, w int$/;"	m	struct:leetcode.edge	typeref:typename:int
+v2	l_1631/l_1631.go	/^	v1, v2, w int$/;"	m	struct:leetcode.edge	typeref:typename:int
+val	l_706/l_706.go	/^	val  int$/;"	m	struct:leetcode.HashNode	typeref:typename:int
+valid	l_329_H/l_329.go	/^func valid(m, n, x, y int) bool {$/;"	f	package:leetcode	typeref:typename:bool
+value	l_399/l_399.go	/^	value  map[string]float64$/;"	m	struct:leetcode.stringSet	typeref:typename:map[string]float64
+w	l_1631/l_1631.go	/^	v1, v2, w int$/;"	m	struct:leetcode.edge	typeref:typename:int
